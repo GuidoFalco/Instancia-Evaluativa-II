@@ -1,0 +1,12 @@
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\bin\Debug\Instancia Evaluativa 22.exe.config
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\bin\Debug\Instancia Evaluativa 22.exe
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\bin\Debug\Instancia Evaluativa 22.pdb
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia Evaluativa 22.csprojAssemblyReference.cache
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia_Evaluativa_22.Form1.resources
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia_Evaluativa_22.Properties.Resources.resources
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia Evaluativa 22.csproj.GenerateResource.cache
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia Evaluativa 22.csproj.CoreCompileInputs.cache
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia Evaluativa 22.exe
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia Evaluativa 22.pdb
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia_Evaluativa_22.RegistroUsuario.resources
+C:\Users\Falco\source\repos\Instancia Evaluativa 22\Instancia Evaluativa 22\obj\Debug\Instancia_Evaluativa_22.Soporte.resources
